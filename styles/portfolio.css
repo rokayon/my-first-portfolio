@@ -1,0 +1,57 @@
+/* font style css */
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lato', sans-serif;
+}
+
+
+/* nav related style */
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* nav-title */
+.nav-title {
+    color: var(--Dark-01, #181818);
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 800;
+
+}
+
+/* color primary */
+.text-primary {
+    color: #FD6E0A;
+}
+
+/* btn-primary */
+.btn-primary {
+    border: 0;
+    border-radius: 5px;
+    background-color: #FD6E0A;
+    color: white;
+    height: 64px;
+    */ padding: 15px 35px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+/* nav list */
+nav>ul {
+    display: flex;
+    align-items: center;
+}
+
+nav>ul>li {
+    list-style: none;
+    margin-right: 50px;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: #181818;
+
+}
