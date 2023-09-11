@@ -240,7 +240,6 @@ footer{
     padding: 130px 200px;
     gap: 100px;
 }
-
 .footer-column{
     width: 50%;
 }
@@ -262,6 +261,5 @@ line-height: 28px; /* 175% */
 }
 .social-links a{
     margin-right: 25px;
-    /* padding-right: 25px; */
-    
+
 }
