@@ -226,8 +226,42 @@ main {
     /* align-items: center; */
     justify-items: center;
 }
-.downlaod-cv{
+
+.downlaod-cv {
     text-align: center;
     padding-top: 50px;
     padding-bottom: 100px;
+}
+/* footer-section */
+footer{
+    display: flex;
+    background: #FFF8F3;
+    margin-top: 100px;
+    padding: 130px 200px;
+    gap: 100px;
+}
+
+.footer-column{
+    width: 50%;
+}
+.contact input[type="text"],.contact input[type="email"],textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color: #757575;
+    border-radius: 5px;
+    background: #FFF;
+    border: 0px;
+    width: 100%;
+}
+#id1{
+    color:  #474747;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px; /* 175% */
+}
+.social-links a{
+    margin-right: 25px;
+    /* padding-right: 25px; */
+    
 }
