@@ -226,3 +226,8 @@ main {
     /* align-items: center; */
     justify-items: center;
 }
+.downlaod-cv{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
